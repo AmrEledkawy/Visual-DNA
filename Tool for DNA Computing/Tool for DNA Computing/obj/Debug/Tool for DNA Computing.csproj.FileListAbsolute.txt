@@ -1,0 +1,40 @@
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.exe.config
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.exe
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.pdb
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AnalyzeDNASequence.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Form1.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Properties.Resources.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.csproj.GenerateResource.Cache
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.exe
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.pdb
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.ReverseDNASequence.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.ComplementDNASequence.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Merge.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Seperate.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.csprojResolveAssemblyReference.cache
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Select.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Sort.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Cut.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AppendHead.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AppendTail.resources
+c:\users\emp\documents\visual studio 2013\Projects\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Substitute.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.exe.config
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.exe
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.pdb
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.exe
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\bin\Debug\Tool for DNA Computing.pdb
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.csprojResolveAssemblyReference.cache
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AnalyzeDNASequence.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AppendHead.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.AppendTail.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.ComplementDNASequence.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Cut.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Form1.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Merge.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Properties.Resources.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.ReverseDNASequence.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Select.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Seperate.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Sort.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool_for_DNA_Computing.Substitute.resources
+E:\1st Master\Tool\Tool\Tool for DNA Computing\Tool for DNA Computing\obj\Debug\Tool for DNA Computing.csproj.GenerateResource.Cache

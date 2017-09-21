@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E571412B-6D65-4E95-81F5-8FD44FC98893}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tool_for_DNA_Computing</RootNamespace>
+    <AssemblyName>Tool for DNA Computing</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnalyzeDNASequence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnalyzeDNASequence.Designer.cs">
+      <DependentUpon>AnalyzeDNASequence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppendHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppendHead.Designer.cs">
+      <DependentUpon>AppendHead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppendTail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppendTail.Designer.cs">
+      <DependentUpon>AppendTail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComplementDNASequence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplementDNASequence.Designer.cs">
+      <DependentUpon>ComplementDNASequence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cut.Designer.cs">
+      <DependentUpon>Cut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Merge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Merge.Designer.cs">
+      <DependentUpon>Merge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationsOfDNAComputing.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseDNASequence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReverseDNASequence.Designer.cs">
+      <DependentUpon>ReverseDNASequence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select.Designer.cs">
+      <DependentUpon>Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seperate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seperate.Designer.cs">
+      <DependentUpon>Seperate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sort.Designer.cs">
+      <DependentUpon>Sort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Substitute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Substitute.Designer.cs">
+      <DependentUpon>Substitute.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnalyzeDNASequence.resx">
+      <DependentUpon>AnalyzeDNASequence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppendHead.resx">
+      <DependentUpon>AppendHead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppendTail.resx">
+      <DependentUpon>AppendTail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplementDNASequence.resx">
+      <DependentUpon>ComplementDNASequence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cut.resx">
+      <DependentUpon>Cut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Merge.resx">
+      <DependentUpon>Merge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReverseDNASequence.resx">
+      <DependentUpon>ReverseDNASequence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select.resx">
+      <DependentUpon>Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seperate.resx">
+      <DependentUpon>Seperate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sort.resx">
+      <DependentUpon>Sort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Substitute.resx">
+      <DependentUpon>Substitute.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
